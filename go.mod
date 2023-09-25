@@ -1,4 +1,4 @@
-module github.com/dreamsxin/cors
+module github.com/dreamsxin/go-cors
 
 go 1.13
 
